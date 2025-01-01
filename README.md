@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabrizio302002&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabrizio302002&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Fabrizio302002&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabrizio302002&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabrizio302002&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Fabrizio302002&theme=radical&column=-1&row=1&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
